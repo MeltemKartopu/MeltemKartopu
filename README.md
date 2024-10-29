@@ -3,7 +3,7 @@
 # Hello, I'm Meltem! 👋
 
 ## About Me
-- ![Degree](https://img.shields.io/badge/Degree-Industrial%20Engineering-4CAF50?style=flat-square&logo=graduation-cap&logoColor=white) 🎓 Graduated with a degree in Industrial Engineering in 2023.
+- ![Degree](https://img.shields.io/badge/Degree-Industrial%20Engineering-4CAF50?style=flat-square&logo=graduation-cap&logoColor=white) 🎓 Graduated with a degree in Industrial Engineering.
 - ![Data](https://img.shields.io/badge/Passionate%20About-Data%20Analysis%20%26%20Data%20Science-1E90FF?style=flat-square&logo=bar-chart&logoColor=white) 📊 Passionate about data analysis and data science.
 - ![Learning](https://img.shields.io/badge/Learning-Python%20%26%20SQL-FFD700?style=flat-square&logo=python&logoColor=white) 🐍 Currently learning Python and SQL to apply these skills in data science projects.
 
